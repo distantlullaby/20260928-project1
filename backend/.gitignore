@@ -1,0 +1,9 @@
+# Go
+mbti-server.exe
+*.exe
+/vendor/
+
+# 本地环境/编辑器
+.idea/
+.vscode/
+*.log

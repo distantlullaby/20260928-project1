@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.local
+*.log
+.DS_Store
+
+# 截图脚本产生的浏览器临时目录
+edge-cdp*/
