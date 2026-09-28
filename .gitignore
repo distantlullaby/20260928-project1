@@ -1,0 +1,19 @@
+# 后端可执行与临时文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+
+# 前端依赖与构建产物
+node_modules/
+frontend/dist/
+
+# 环境/编辑器
+.env
+.idea/
+.vscode/
+*.log
